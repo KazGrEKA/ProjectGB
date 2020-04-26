@@ -1,0 +1,715 @@
+.LentaInformDButton777121 {
+    display: inline-block;
+    width: 168px;
+    height: 48px;
+    background: -moz-linear-gradient(#F79220, #F26B29);
+    background: -o-linear-gradient(#F79220, #F26B29);
+    background: -webkit-linear-gradient(#F79220, #F26B29);
+    background: linear-gradient(#F79220, #F26B29);
+    border: 1px solid #F36729;
+    color: #fff !important;
+    font: normal 700 21px/48px "Zapf Dingbats", sans-serif;
+    opacity: 0;
+    left: -100%;
+    text-align: center;
+    text-shadow: none;
+    position: absolute;
+    text-decoration: none !important;
+    transition: all 1s;
+}
+
+.LentaInformDLayout777121 {
+    height: 100%;
+    width: 100% !important;
+    position: absolute !important;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 99999;
+}
+
+#LentaInformComposite777121 .mgline {
+    position: relative
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v15/mUdRVCMHGKUBOACHGTH1g-vvDin1pK8aKteLpeZ5c0A.woff) format('woff');
+}
+
+#LentaInformComposite777121_00ab7 .mgresponsive {
+    display: inherit;
+}
+
+#LentaInformComposite777121_00ab7 .mgbox {
+    padding: 0 !important;
+    position: relative !important;
+    text-align: center;
+    vertical-align: top !important;
+    margin: 0 auto;
+    width: 100%;
+    white-space: nowrap;
+    overflow-y: hidden;
+    box-sizing: content-box;
+    padding-top: 10px;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 10px !important;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+}
+
+#LentaInformComposite777121_00ab7 .mgsrollbar-hidder {
+    height: 250px;
+    position: relative;
+    overflow: hidden;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+#LentaInformComposite777121_00ab7 div.mcimg {
+    padding: 0;
+    text-align: center;
+    border-radius: 6px;
+}
+
+#LentaInformComposite777121_00ab7 img.mcimg {
+    object-fit: cover;
+    width: 100% !important;
+    height: 80%;
+    max-width: 370px;
+    max-height: 250px;
+    box-sizing: border-box;
+    display: block;
+}
+
+#LentaInformComposite777121_00ab7 .mctitle {
+    margin-top: 10px;
+    text-align: left;
+    padding-top: 10px;
+    text-transform: none;
+}
+
+#LentaInformComposite777121_00ab7 .mctitle a {
+    font-weight: bold;
+    font-size: 20px;
+    font-style: normal;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+}
+
+#LentaInformComposite777121_00ab7 .mcdesc {
+    display: none;
+    text-align: left;
+}
+
+#LentaInformComposite777121_00ab7 .mcdesc a {
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 11px;
+    font-style: normal;
+    text-decoration: none;
+    color: #666666;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#LentaInformComposite777121_00ab7 .mcdomain {
+    display: block;
+    text-align: left;
+    overflow: hidden;
+    visibility: hidden;
+}
+
+#LentaInformComposite777121_00ab7 .mcdomain a {
+    font-size: 13px;
+    line-height: 13px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif !important;
+    display: block;
+    overflow: hidden;
+    text-align: left !important;
+    text-decoration: none !important;
+    font-style: italic !important;
+    font-weight: normal !important;
+}
+
+#LentaInformComposite777121_00ab7 .mcdomain a img.mcimgsrc {
+    vertical-align: bottom;
+    margin-bottom: -3px;
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+}
+
+#LentaInformComposite777121_00ab7 .mgline {
+    position: relative;
+    width: 200px;
+    height: 250px;
+    float: none;
+    overflow: hidden;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    border-radius: 8px;
+    transition: box-shadow;
+    transition-duration: 0.5s;
+    transition-property: box-shadow;
+    will-change: box-shadow;
+    white-space: normal;
+    display: inline-block;
+}
+
+#LentaInformComposite777121_00ab7 .mgline .image-container {
+    position: relative;
+}
+
+#LentaInformComposite777121_00ab7 .mgline .image-container .mcimgad {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 20px;
+    height: 20px;
+}
+
+#LentaInformComposite777121_00ab7 .mgline {
+    vertical-align: top;
+}
+
+#LentaInformComposite777121_00ab7 img.mcimg {
+    display: block;
+    border-radius: 8px !important;
+}
+
+#LentaInformComposite777121_00ab7 .mgline[max-width ~ ="120px"] .mcdesc {
+    display: none !important;
+}
+
+@supports not (flex-wrap: wrap) {
+    .mgbox {
+        display: block !important;
+    }
+
+    #LentaInformComposite777121_00ab7 .mgline {
+        display: inline-block !important;
+    }
+}
+
+.text-elements a {
+    text-decoration: none;
+}
+
+#LentaInformComposite777121_00ab7 div.mcprice {
+    text-align: center;
+}
+
+#LentaInformComposite777121_00ab7 div.mcprice span {
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 12px;
+    font-style: normal;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#LentaInformComposite777121_00ab7 div.mgbuybox,
+#LentaInformComposite777121_00ab7 div.mgarrowbox {
+    display: none;
+}
+
+#LentaInformComposite777121_00ab7 div.mgbuybox,
+#LentaInformComposite777121_00ab7 div.mgarrowbox,
+#LentaInformComposite777121_00ab7 div.mcprice {
+    display: none;
+}
+
+#LentaInformComposite777121_00ab7 span.mcpriceold {
+    text-decoration: line-through !important;
+}
+
+#LentaInformComposite777121_00ab7 .mgpopular {
+    background-color: rgba(255, 0, 0, 0.2) !important;
+    border-color: rgba(255, 90, 0, 0.3) !important;
+}
+
+div[class*=mg_addad] {
+    margin-top: -4px;
+    margin-bottom: 2px;
+}
+
+div[id*=TrafficmediaComposite] div[class*=widgets_logo] a {
+    bottom: -18px;
+}
+
+#LentaInformComposite777121_00ab7 .mgheader {
+    display: none !important;
+}
+
+#LentaInformComposite777121_00ab7 img.mcimg {
+    margin: 0;
+    opacity: 1 !important;
+}
+
+#LentaInformComposite777121_00ab7 .mgline {
+    position: relative;
+    width: 200px;
+    height: 250px;
+}
+
+#LentaInformComposite777121_00ab7 .mgline .fake {
+    visibility: hidden;
+    position: relative;
+    padding-top: 4px;
+}
+
+#LentaInformComposite777121_00ab7 .mgline:hover .mcpriceold + .mcprice,
+#LentaInformComposite777121_00ab7 .mgline:hover .mcpriceold {
+    visibility: hidden;
+}
+
+#LentaInformComposite777121_00ab7 .mgline:hover .mcdiscount {
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 5px;
+}
+
+#LentaInformComposite777121_00ab7 .mgarrowbox {
+    position: relative;
+    background: #2b397b;
+    width: 55%;
+    height: 22px;
+    margin: 0;
+    border-color: transparent;
+    border-left-color: #2b397b;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#LentaInformComposite777121_00ab7 .mgarrowbox:after {
+    left: 100%;
+    top: 50%;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    margin-top: -11px;
+    border: solid 11px;
+    border-color: inherit;
+}
+
+#LentaInformComposite777121_00ab7 .mgbuybox {
+    width: 40%;
+    display: inline-block;
+    text-align: right;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    color: #666666;
+    text-decoration: underline;
+}
+
+#LentaInformComposite777121_00ab7 .mctitle {
+    margin-top: 2px;
+}
+
+#LentaInformComposite777121_00ab7 .mcdesc {
+    margin-top: 0;
+    margin-bottom: 2px;
+}
+
+#LentaInformComposite777121_00ab7 .mcdesc a {
+    line-height: 1.5 !important;
+}
+
+#LentaInformComposite777121_00ab7 div.mcprice {
+    margin-top: 5px;
+    line-height: 12px !important;
+}
+
+#LentaInformComposite777121_00ab7 div.mgbuybox,
+#LentaInformComposite777121_00ab7 div.mgarrowbox {
+    display: none;
+}
+
+#LentaInformComposite777121_00ab7 .mgtobottom {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: left;
+}
+
+#LentaInformComposite777121_00ab7 .mghead {
+    color: #2b397b;
+    font-size: 14px !important;
+    text-transform: uppercase !important;
+}
+
+#LentaInformComposite777121_00ab7 .mcpriceold {
+    float: left;
+    padding-left: 5px;
+}
+
+#LentaInformComposite777121_00ab7 .mcdiscount {
+    display: none;
+}
+
+#LentaInformComposite777121_00ab7 .mcdomain a {
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    overflow: hidden;
+}
+
+#LentaInformComposite777121_00ab7 div.mcprice,
+#LentaInformComposite777121_00ab7 div.mcriceold {
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 12px;
+    font-style: normal;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#LentaInformComposite777121_00ab7 div.mcpriceold {
+    text-decoration: line-through !important;
+}
+
+#LentaInformComposite777121_00ab7 .mgline[max-width ~ ="120px"] .mgarrowbox,
+#LentaInformComposite777121_00ab7 .mgline[max-width ~ ="120px"] .mgbuybox {
+    display: none !important;
+}
+
+#LentaInformComposite777121_00ab7 .mgline .image-with-text {
+    min-height: 1px;
+    display: flex;
+    height: 100%;
+}
+
+#LentaInformComposite777121_00ab7 .mgline {
+    margin: 0 7px;
+    padding: 0 !important;
+    border: none;
+}
+
+#LentaInformComposite777121_00ab7 .mgline .text-elements {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    flex-grow: 1;
+    padding: 45px 0 10px 0;
+    border-radius: 8px;
+    width: 100% !important;
+}
+
+#LentaInformComposite777121_00ab7 .mgline .image-container {
+    overflow: hidden;
+    height: 100%;
+}
+
+#LentaInformComposite777121_00ab7 .mctitle {
+    margin-top: 0;
+    padding: 0 10px;
+}
+
+#LentaInformComposite777121_00ab7 .mgline .mctitle a {
+    display: inline-block;
+}
+
+#LentaInformComposite777121_00ab7 .mgtobottom {
+    position: relative;
+}
+
+#LentaInformComposite777121_00ab7 .mcdomain {
+    margin-top: 3px;
+    padding: 0 10px;
+}
+
+#LentaInformComposite777121_00ab7 .mcdomain a {
+    padding-bottom: 3px;
+}
+
+#LentaInformComposite777121_00ab7 .mglogo {
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+#LentaInformComposite777121_00ab7 .mglogo img {
+    width: 115px;
+    height: auto;
+    border: 0;
+}
+
+#LentaInformComposite777121_00ab7 .mgbox::-webkit-scrollbar {
+    display: none;
+}
+
+#LentaInformComposite777121_00ab7 .mgscrollbutton {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%) translateZ(0);
+    -webkit-transform: translateY(-50%) translateZ(0);
+    -ms-transform: translateY(-50%) translateZ(0);
+    will-change: transform;
+    height: 68px;
+    width: 44px;
+    display: block;
+    cursor: pointer;
+    transition: transform 0.5s ease;
+    -webkit-transition: transform 0.5s ease;
+    border-radius: 3px;
+    background-color: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.18);
+}
+
+#LentaInformComposite777121_00ab7 .mgscrollbutton-right {
+    right: -70px;
+    -ms-overflow-x: hidden;
+}
+
+#LentaInformComposite777121_00ab7 .mgscrollbutton-right.visible {
+    transform: translateY(-50%) translateX(-100%) translateX(-36px);
+    -webkit-transform: translateY(-50%) translateX(-100%) translateX(-36px);
+    -ms-transform: translateY(-50%) translateX(-100%) translateX(-36px);
+}
+
+#LentaInformComposite777121_00ab7 .mgscrollbutton-left {
+    left: -54px;
+    -ms-overflow-x: hidden;
+}
+
+#LentaInformComposite777121_00ab7 .mgscrollbutton-left.visible {
+    transform: translateY(-50%) translateX(100%) translateX(20px);
+    -webkit-transform: translateY(-50%) translateX(100%) translateX(20px);
+    -ms-transform: translateY(-50%) translateX(100%) translateX(20px);
+}
+
+#LentaInformComposite777121_00ab7 .mgscrollarrow {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    height: 18px;
+    width: 12px;
+    background-position: center;
+    background-image: url("data:image/svg+xml,%3Csvg width='12' height='18' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 9L0 18V0z' fill='%23000' fill-rule='evenodd'/%3E%3C/svg%3E");
+    background-size: contain;
+}
+
+#LentaInformComposite777121_00ab7 .mgscrollbutton-left .mgscrollarrow {
+    -webkit-transform: translateX(-50%) translateY(-50%) scaleX(-1) !important;
+    -ms-transform: translateX(-50%) translateY(-50%) scaleX(-1) !important;
+    transform: translateX(-50%) translateY(-50%) scaleX(-1) !important;
+}
+
+.mbscrollcontainer {
+    width: 5px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 99;
+    will-change: transform;
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+}
+
+#LentaInformComposite777121_00ab7 .mgsrollbar-hidder .mbscrollcontainer-left,
+#LentaInformComposite777121_00ab7 .mgsrollbar-hidder .mbscrollcontainer-right {
+    height: 250px;
+    bottom: 0;
+    z-index: 200;
+}
+
+#LentaInformComposite777121_00ab7 .mgsrollbar-hidder .mbscrollcontainer-left {
+    left: 0;
+}
+
+#LentaInformComposite777121_00ab7 .mgsrollbar-hidder .mbscrollcontainer-right {
+    right: 0;
+}
+
+.allink {
+    height: 100%;
+    width: 100%;
+    display: block;
+    position: absolute;
+    cursor: pointer;
+}
+
+#LentaInformComposite777121_00ab7 .mgline:first-child {
+    margin-left: 0 !important;
+}
+
+@media only screen and (max-width: 480px) {
+    .mbscrollcontainer {
+        display: none !important;
+    }
+}
+
+#LentaInformComposite777121_00ab7 .mglogo {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+#LentaInformComposite777121_00ab7 .mglogo img {
+    width: 115px;
+    height: auto;
+    border: 0;
+}
+
+#LentaInformComposite777121_00ab7 .mgbox {
+    z-index: 98;
+}
+
+#LentaInformComposite777121_00ab7 .mgline {
+    z-index: 150;
+}
+
+.smooth {
+    transition: transform 0.5s ease-out;
+    -webkit-transition: transform 0.5s ease-out;
+}
+
+</style > <style id="reject_00ab7"class="LentaInformC777121"type="text/css" > #LentaInformComposite777121_00ab7 div.mcimg a.close-informer {
+    width: 14px;
+    height: 14px;
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo5NzI0ODBDMzY3ODcxMUU1OEM4RUU2RUJCOUREODIyQiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo5NzI0ODBDNDY3ODcxMUU1OEM4RUU2RUJCOUREODIyQiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjk3MjQ4MEMxNjc4NzExRTU4QzhFRTZFQkI5REQ4MjJCIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjk3MjQ4MEMyNjc4NzExRTU4QzhFRTZFQkI5REQ4MjJCIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+uNcpEQAAAHxJREFUeNqckgEKwCAIRe3fYjfKc2zX6hydaLRbbDnGkLDIPggl/5lKIcbIRJRqbDSnUmOHE6LPm+CEfhj6lnN+o5WVh1VOm6xColCXc/cgLWYev9gaejnQojCab5RDzyDt6RantqoBaz5zq54ZywJ3CXjIwQGd8skfAQYALdQqftYulocAAAAASUVORK5CYIJ0ZW50Ij4NCiA8ZGl2IGNsYXNzPSJjb250ZW50LWNvbnRhaW5lciI+PGZpZWxkc2V0Pg0KICA8aDI+NTAyIC0gV2ViIHNlcnZlciByZWNlaXZlZCBhbiBpbnZhbGlkIHJlc3BvbnNlIHdoaWxlIGFjdGluZyBhcyBhIGdhdGV3YXkgb3IgcHJveHkgc2VydmVyLjwvaDI+DQogIDxoMz5UaGVyZSBpcyBhIHByb2JsZW0gd2l0aCB0aGUgcGFnZSB5b3UgYXJlIGxvb2tpbmcgZm9yLCBhbmQgaXQgY2Fubm90IGJlIGRpc3BsYXllZC4gV2hlbiB0aGUgV2ViIHNlcnZlciAod2hpbGUgYWN0aW5nIGFzIGEgZ2F0ZXdheSBvciBwcm94eSkgY29udGFjdGVkIHRoZSB1cHN0cmVhbSBjb250ZW50IHNlcnZlciwgaXQgcmVjZWl2ZWQgYW4gaW52YWxpZCByZXNwb25zZSBmcm9tIHRoZSBjb250ZW50IHNlcnZlci48L2gzPg0KIDwvZmllbGRzZXQ+PC9kaXY+DQo8L2Rpdj4NCjwvYm9keT4NCjwvaHRtbD4NCg==");
+    display: block;
+    opacity: 0;
+    position: absolute;
+    right: 3px;
+    top: 3px;
+    z-index: 1;
+    cursor: pointer;
+}
+
+#LentaInformComposite777121_00ab7 div.mgline:hover a.close-informer {
+    opacity: 0.7;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+#LentaInformComposite777121_00ab7 div.mgline a.close-informer:hover {
+    opacity: 1;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+#LentaInformComposite777121_00ab7 div.mcimg {
+    position: relative;
+    display: inline-block;
+}
+
+div.image-with-price {
+    position: relative;
+}
+
+#LentaInformComposite777121_00ab7 .mgline .image-container {
+    width: auto;
+    margin: 0 auto;
+    position: relative;
+}
+
+</style > <div class="mgheader" > <span class="mghead" > Новости Партнеров</span > <div class="mg_addad777121 widgets_logo" > <a href="http://partner.lentainform.com"target="_blank"rel="nofollow noopener" > </a > </div > </div > <style > .widgets_logo {
+    position: relative
+}
+
+.widgets_logo a {
+    background: url(https://cdn.lentainform.com/images/lentainform/widgets_lentainform.png) no-repeat;
+    width: 88px;
+    height: 10px;
+    position: absolute;
+    display: block;
+    bottom: -10px;
+    right: 7px
+}
+
+.mgbox {
+    margin-bottom: 15px !important;
+}
+
+.widgets_logo:hover a {
+    background: url(https://cdn.lentainform.com/images/lentainform/widgets_lentainform_hover.png) no-repeat
+}
+
+.image-container {
+    overflow: hidden;
+}
+
+.preload {
+    background: #2a397b;
+    left: -100%;
+    position: absolute;
+    top: 0;
+    height: 4px;
+    width: 100%;
+    z-index: 2;
+    -webkit-animation: preloadAnimation linear .8s;
+    -moz-animation: preloadAnimation linear .8s;
+    -ms-animation: preloadAnimation linear .8s;
+    -o-animation: preloadAnimation linear .8s;
+    animation: preloadAnimation linear .8s;
+    -webkit-animation-iteration-count: 1;
+    -moz-animation-iteration-count: 1;
+    -ms-animation-iteration-count: 1;
+    -o-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+}
+
+@keyframes preloadAnimation {
+    0% {
+        transform: translateX(0)
+    }
+
+    90% {
+        transform: translateX(100%)
+    }
+
+    100% {
+        transform: translateY(-2px)
+    }
+}
+
+@-moz-keyframes preloadAnimation {
+    0% {
+        -moz-transform: translateX(0)
+    }
+
+    90% {
+        -moz-transform: translateX(100%)
+    }
+
+    100% {
+        -moz-transform: translateY(-2px)
+    }
+}
+
+@-ms-keyframes preloadAnimation {
+    0% {
+        -ms-transform: translateX(0)
+    }
+
+    90% {
+        -ms-transform: translateX(100%)
+    }
+
+    100% {
+        -ms-transform: translateY(-2px)
+    }
+}
